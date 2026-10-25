@@ -2,7 +2,7 @@
 
 A product landing page for a fictional craft cider brand, built entirely with AI using [Claude Code](https://claude.ai/code).
 
-This is a study material from **Lesson 02** of the [Vibe Coding for Marketers](https://www.yourvibecoding.com/) course by Jindra Faborsky — a hands-on course teaching non-technical marketers how to build websites and tools using AI-powered development.
+This is a study material from **Lesson 02** of the [Vibe Coding for Marketers](https://www.vibecodingformarketers.com) course by [Jindřich Fáborský](https://www.faborsky.com), a hands-on course teaching non-technical marketers how to build websites and tools using AI-powered development.
 
 ## What This Is
 
@@ -55,8 +55,12 @@ npx serve .
 
 **Vibe Coding for Marketers** teaches marketers how to turn ideas into working products using AI — no coding experience required. The course covers building landing pages, full websites, SEO, multilingual sites, and interactive prototypes.
 
-Learn more: [yourvibecoding.com](https://www.yourvibecoding.com/)
+Learn more: [vibecodingformarketers.com](https://www.vibecodingformarketers.com)
 
 ## License
 
 This project is provided as educational material. The BRUT. brand is fictional. Images are AI-generated.
+
+## Author
+
+[Jindřich Fáborský](https://www.faborsky.com), marketer and educator from Prague. I teach marketers to build their own tools with AI. This repo accompanies my course [Vibe Coding for Marketers](https://www.vibecodingformarketers.com).
